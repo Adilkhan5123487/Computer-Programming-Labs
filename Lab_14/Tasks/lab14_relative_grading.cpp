@@ -1,8 +1,8 @@
 // ============================================================
 //  Lab 14 - Relative Grading System (UET Peshawar)
 //  Course : Computer Programming (EE-170L)
-//  Name   : Zawar Shah
-//  Reg No : BF25NWELE0677
+//  Name   : Muhammad Adil
+//  Reg No : BF25NWELE0669
 //  Date   : 19-May-2026
 // ============================================================
 
